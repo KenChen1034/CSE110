@@ -36,7 +36,7 @@ for
 
 I know a good place for doin [Homework](https://www.google.com/).
 
-This is [`section link`](#Styling text)
+This is [`section link`](#styling-text)
 
 Maybe this is a [Relative links](./README.md)
 
