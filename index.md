@@ -38,7 +38,7 @@ I know a good place for doin [Homework](https://www.google.com/).
 
 This is [`section link`](#Styling text)
 
-Maybe this is a [Relative links](README)
+Maybe this is a [Relative links](./README)
 
 -item1
 -item2
