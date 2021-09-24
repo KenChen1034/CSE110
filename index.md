@@ -1,14 +1,12 @@
 Eh. currently I am a third years UCSD student. I just change my major from Mathematics to Computer science, so I still consider myself as a new programmer. I am willing to learn from all my classmate to gain a better knowledge of coding and how to be a software engineer.
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credit.com%2Fblog%2F14-confusing-money-terms-explained-127390%2F&psig=AOvVaw14LU7LOCB-6m5KlIeCwSty&ust=1632603873416000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj7qsLBmPMCFQAAAAAdAAAAABAD)
+![This is an image](https://www.credit.com/blog/wp-content/uploads/2015/02/free-credit-scores-confusion.jpg)
 
-#Some Heading that is required
+# Some Heading that is required
+## Another Heading
+###### Another other Heading
 
-##Another Heading
-
-######Another other Heading
-
-##Styling text
+## Styling text
 
 **Copying and pasting bold text**
 
@@ -20,12 +18,12 @@ _Copying and pasting italicized text_
 
 ***Copying and pasting ALL BOLD AND ITALIC text***
 
-##Quoting text
+## Quoting text
 
 Issca Newton once said:
 >Anime does not obey physic
 
-##Quoting code
+## Quoting code
 
 I think many ppl learn this
 ```
@@ -34,7 +32,7 @@ while
 for
 ```
 
-##Links
+## Links
 
 I know a good place for doin [Homework](https://www.google.com/).
 
@@ -48,6 +46,6 @@ Maybe this is a [Relative links](main/README.md)
 1. item100
 2. item200
 3. item300
-- []hi
-- []hello
+- [ ]hi
+- [ ]hello
 - [x]bye
