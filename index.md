@@ -40,9 +40,9 @@ This is [`section link`](#styling-text)
 
 Maybe this is a [Relative links](./README.md)
 
--item1
--item2
--item3
+- item1
+- item2
+- item3
 1. item100
 2. item200
 3. item300
